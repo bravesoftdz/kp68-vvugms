@@ -1,0 +1,6 @@
+*.dll
+*.~pas
+*.log
+*.txt
+*.~dfm
+*.~dpr
